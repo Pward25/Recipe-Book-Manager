@@ -14,7 +14,7 @@ The Recipe Book Manager is a Python-based application that integrates with Googl
 7. Use the favorites feature to mark your favorite recipes with the ⭐ icon
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/kU6zXB5d2nE)
 
 # Cloud Database
 
